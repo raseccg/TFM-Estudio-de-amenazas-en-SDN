@@ -19,7 +19,7 @@ A continuación, se describe el contenido de cada uno de los directorios del rep
 En este directorio se adjunta las alertas generadas en pfSense, descargadas en formato tat.gz, tanto para el controlador ONOS como para la infraestructura Mininet. Estas alertas están relacionadas al atque DoS ejecutados con las herramientas Ettercap y Hping3.  
 **_Aplicaciones open source utilizadas para el pentesting_**  
 En este directorio se adjuntan las aplicaciones de terceros descargadas para realizar el pentesting (sdnpwn, slowloris, XERXES y openvas) y los ficheros de instalación de Wazuh para el monitoreo, detección y mitigación.  
-**_Diseños de arquitecturas_**
+**_Diseños de arquitecturas_**  
 En este directorio se adjuntan las imágenes con los diseños de la arquitectura SDN virtualizada, describiendo: los elementos de la arquitectura, direcciones IPs, sistemas operativos y aplicaciones desplegadas. Se adjuntan 4 diseños:  
 + Diseño de la arquitectura SDN  
 + Escenario pentensting arquitectura SDN
