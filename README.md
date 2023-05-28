@@ -24,7 +24,7 @@ En este directorio se adjuntan las imágenes con los diseños de la arquitectura
 + Diseño de la arquitectura SDN  
 + Escenario pentensting arquitectura SDN
 + Escenario de pivoting en SDN
-+ Escenario de detección y mitigación en SDN  
++ Escenario de detección y mitigación en SDN    
 **_Informe de pentesting_**
 
 **_Marcos metodológicos_**
