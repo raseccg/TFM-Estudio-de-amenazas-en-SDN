@@ -3,7 +3,7 @@ Repositorio que contiene los ficheros generados y utilizados durante el proceso 
 
 ----------------------------------------------------
 ## CONTENIDO DEL REPOSITORIO
-
+Este repositorio contiene los siguientes contenidos:
 1. Alertas generadas en pfSense
 2. Aplicaciones open source utilizadas para el pentesting
 3. Diseños de arquitecturas
@@ -13,8 +13,9 @@ Repositorio que contiene los ficheros generados y utilizados durante el proceso 
 
 -----------------------------------------------------
 ## DESCRIPCIÓN DEL CONTENIDO
+A continuación, se describe el contenido de cada uno de los directorios del repositorio.
 
-Alertas generadas en pfSense
+* * Alertas generadas en pfSense
 
 Aplicaciones open source utilizadas para el pentesting
 
