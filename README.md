@@ -34,4 +34,5 @@ En este directorio se adjuntan los marcos metodológicos utilizados en este TFM:
 + OCTAVE
 + NSM  
 
-**_Reportes de análisis de vulnerabilidades con OpenVas_**
+**_Reportes de análisis de vulnerabilidades con OpenVas_**  
+En este directorio se adjuntan los reportes de análisis de vulnerabilidades generados desde OpenVas, tanto para el controlador ONOS como para la infraestructura Mininet.
