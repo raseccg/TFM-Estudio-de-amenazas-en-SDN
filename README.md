@@ -4,7 +4,7 @@ Repositorio que contiene los ficheros generados y utilizados durante el proceso 
 ----------------------------------------------------
 ##CONTENIDO DEL REPOSITORIO
 
-1.- Alertas generadas en pfSense
+1.- Alertas generadas en pfSense/n
 2.- Aplicaciones open source utilizadas para el pentesting
 3.- Diseños de arquitecturas
 4.- Informe de pentesting
