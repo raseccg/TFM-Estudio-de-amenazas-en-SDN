@@ -25,9 +25,11 @@ En este directorio se adjuntan las imágenes con los diseños de la arquitectura
 + Escenario pentensting arquitectura SDN
 + Escenario de pivoting en SDN
 + Escenario de detección y mitigación en SDN    
-
-**_Informe de pentesting_**
-
+**_Informe de pentesting_**  
+En este directorio se adjunta el informe de pentesting elaborado tras la finalización del pentesting.  
 **_Marcos metodológicos_**
-
+En este directorio se adjuntan los marcos metodológicos utilizados en este TFM:  
++ Offensive Security (solo un ejemplo tipo de informe de pentesting)
++ OCTAVE
++ NSM
 **_Reportes de análisis de vulnerabilidades con OpenVas_**
