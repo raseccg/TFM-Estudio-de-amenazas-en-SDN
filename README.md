@@ -15,7 +15,7 @@ Este repositorio contiene los siguientes contenidos:
 ## DESCRIPCIÓN DEL CONTENIDO
 A continuación, se describe el contenido de cada uno de los directorios del repositorio.
 
-**_ _Alertas generadas en pfSense_ _**
+**_ Alertas generadas en pfSense_**
 
 Aplicaciones open source utilizadas para el pentesting
 
