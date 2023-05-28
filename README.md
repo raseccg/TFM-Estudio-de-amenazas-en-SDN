@@ -16,7 +16,7 @@ Este repositorio contiene los siguientes contenidos:
 A continuación, se describe el contenido de cada uno de los directorios del repositorio.
 
 **_Alertas generadas en pfSense_**  
-En este directorio se adjunta las alertas generadas en pfSense, descargadas en formato tat.gz, tanto para el controlador ONOS como para la infraestructura Mininet. Estas alertas están relacionadas al atque DoS ejecutados con las herramientas Ettercap y Hping3.
+En este directorio se adjunta las alertas generadas en pfSense, descargadas en formato tat.gz, tanto para el controlador ONOS como para la infraestructura Mininet. Estas alertas están relacionadas al atque DoS ejecutados con las herramientas Ettercap y Hping3.  
 **_Aplicaciones open source utilizadas para el pentesting_**
 
 **_Diseños de arquitecturas_**
