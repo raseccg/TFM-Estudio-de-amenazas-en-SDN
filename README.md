@@ -15,16 +15,14 @@ Este repositorio contiene los siguientes contenidos:
 ## DESCRIPCIÓN DEL CONTENIDO
 A continuación, se describe el contenido de cada uno de los directorios del repositorio.
 
-**This text is _extremely_ important**
-
 **_Alertas generadas en pfSense_**
 
-Aplicaciones open source utilizadas para el pentesting
+**_Aplicaciones open source utilizadas para el pentesting
 
-Diseños de arquitecturas
+**_Diseños de arquitecturas
 
-Informe de pentesting
+**_Informe de pentesting
 
-Marcos metodológicos
+**_Marcos metodológicos
 
-Reportes de análisis de vulnerabilidades con OpenVas
+**_Reportes de análisis de vulnerabilidades con OpenVas
