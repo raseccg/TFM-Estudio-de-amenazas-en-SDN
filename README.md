@@ -20,7 +20,11 @@ En este directorio se adjunta las alertas generadas en pfSense, descargadas en f
 **_Aplicaciones open source utilizadas para el pentesting_**  
 En este directorio se adjuntan las aplicaciones de terceros descargadas para realizar el pentesting (sdnpwn, slowloris, XERXES y openvas) y los ficheros de instalación de Wazuh para el monitoreo, detección y mitigación.  
 **_Diseños de arquitecturas_**
-
+En este directorio se adjuntan las imágenes con los diseños de la arquitectura SDN virtualizada, describiendo: los elementos de la arquitectura, direcciones IPs, sistemas operativos y aplicaciones desplegadas. Se adjuntan 4 diseños:  
++ Diseño de la arquitectura SDN  
++ Escenario pentensting arquitectura SDN
++ Escenario de pivoting en SDN
++ Escenario de detección y mitigación en SDN  
 **_Informe de pentesting_**
 
 **_Marcos metodológicos_**
