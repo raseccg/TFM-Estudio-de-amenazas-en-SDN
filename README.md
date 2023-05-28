@@ -17,12 +17,12 @@ A continuación, se describe el contenido de cada uno de los directorios del rep
 
 **_Alertas generadas en pfSense_**
 
-**_Aplicaciones open source utilizadas para el pentesting
+**_Aplicaciones open source utilizadas para el pentesting_**
 
-**_Diseños de arquitecturas
+**_Diseños de arquitecturas_**
 
-**_Informe de pentesting
+**_Informe de pentesting_**
 
-**_Marcos metodológicos
+**_Marcos metodológicos_**
 
-**_Reportes de análisis de vulnerabilidades con OpenVas
+**_Reportes de análisis de vulnerabilidades con OpenVas_**
