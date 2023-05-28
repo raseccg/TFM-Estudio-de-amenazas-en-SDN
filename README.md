@@ -4,3 +4,14 @@ Repositorio que contiene los ficheros generados y utilizados durante el proceso 
 ----------------------------------------------------
 CONTENIDO
 
+Alertas generadas en pfSense
+
+Aplicaciones open source utilizadas para el pentesting
+
+Diseños de arquitecturas
+
+Informe de pentesting
+
+Marcos metodológicos
+
+Reportes de análisis de vulnerabilidades
