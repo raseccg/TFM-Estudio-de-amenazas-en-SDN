@@ -14,4 +14,4 @@ Informe de pentesting
 
 Marcos metodológicos
 
-Reportes de análisis de vulnerabilidades
+Reportes de análisis de vulnerabilidades con OpenVas
